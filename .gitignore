@@ -98,3 +98,4 @@ Thumbs.db
 **/build/
 **/temp/
 .sonarlint/
+target/
